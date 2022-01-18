@@ -1,1 +1,1 @@
-# Predct orthopaedic patients class using machine learning
+# Predict Orthopaedic Patients Class using Machine Learning
